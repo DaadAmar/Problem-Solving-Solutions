@@ -15,6 +15,5 @@ int main() {
             cout << shelves << endl;
         }
     }
-
     return 0;
 }
